@@ -1,4 +1,4 @@
-# cv-vue
+# my-cv-vue
 
 ## Project setup
 ```
