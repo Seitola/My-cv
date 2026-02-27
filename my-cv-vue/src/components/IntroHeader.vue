@@ -13,7 +13,7 @@
     ge en översikt över min bakgrund och mina erfarenheter, och jag hoppas att det kan hjälpa dig att lära känna
     mig bättre. <br />
     Till vänster kan du hitta lite snabbfakta om mig, som exempelvis bild på mig, namn, och kontaktuppgifter. Där
-    kan du även hitta länk till Linkedin.
+    kan du även hitta länk till min Linkedin.
   </p>
 </template>
 
